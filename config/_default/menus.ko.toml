@@ -1,0 +1,33 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "홈"
+url = "/"
+weight = 1
+
+[[main]]
+name = "퍼마픽스란?"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "블로그"
+url = "blog/"
+weight = 3
+
+# footer menu
+[[footer]]
+name = "퍼마픽스란?"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "블로그"
+url = "blog/"
+weight = 2
+
+[[footer]]
+name = "이용약관"
+url = "privacy-policy/"
+weight = 3
