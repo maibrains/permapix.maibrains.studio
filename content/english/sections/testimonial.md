@@ -1,31 +1,49 @@
 ---
 enable: true
-title: "What Users Are Saying About Hugoplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Hugoplate."
+title: "Check Out User Testimonials"
+description: "Explore honest testimonials from users who are genuinely satisfied with our service. They are utilizing PermaPix for various purposes and in various ways."
 
-# Testimonials
 testimonials:
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Scarllet"
+    designation: "Saha-gu, Busan"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "We are conducting alpha testing."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Kenneth"
+    designation: "Suncheon, Jeollanam-do"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "We are conducting alpha testing."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Lucy"
+    designation: "Sasang-gu, Busan"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "We are conducting alpha testing."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Luna"
+    designation: "Gyeongju, Gyeongsangbuk-do"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "We are conducting alpha testing."
 
-# don't create a separate page
+  - name: "Jonney"
+    designation: "Gimhae, Gyeongsangnam-do"
+    avatar: "/images/avatar-sm.png"
+    content: "We are conducting alpha testing."
+
+  - name: "Ellie"
+    designation: "Sasang-gu, Busan"
+    avatar: "/images/avatar-sm.png"
+    content: "We are conducting alpha testing."
+
+  - name: "Mark"
+    designation: "Seogu, Daegu"
+    avatar: "/images/avatar-sm.png"
+    content: "We are conducting alpha testing."
+
+  - name: "Stone"
+    designation: "Sasang-gu, Busan"
+    avatar: "/images/avatar-sm.png"
+    content: "We are conducting alpha testing."
+
 _build:
   render: "never"
 ---

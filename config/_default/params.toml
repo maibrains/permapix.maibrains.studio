@@ -31,12 +31,12 @@ copyright = "Copyright 2023. [MAIBRAINS](https://maibrains.studio). All rights r
 
 # Preloader
 [preloader]
-enable = false
+enable = true
 preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
-enable = false
+enable = true
 label = "get a quote"
 link = "contact"
 
