@@ -6,7 +6,7 @@ banner:
   button:
     enable: true
     label: 퍼마픽스에 관해 알아보기
-    link: "/about"
+    link: "/ko/about"
 
 features:
   - title: "영구히 보존됩니다."

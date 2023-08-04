@@ -1,11 +1,11 @@
 ---
 title: "What is PERMAPIX?"
 # meta title
-meta_title: ""
+meta_title: "What is PERMAPIX?"
 # meta description
-description: "This is meta description"
+description: "What is PERMAPIX?"
 # save as draft
 draft: false
 ---
 
-PERMAPIX is an app that securely and safely uploads pictures from your phone to a blockchain network.
+<center>In progress ...</center>

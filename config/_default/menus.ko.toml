@@ -2,12 +2,12 @@
 
 # main menu
 [[main]]
-name = "홈"
+name = "처음으로"
 url = "/"
 weight = 1
 
 [[main]]
-name = "퍼마픽스란?"
+name = "소개"
 url = "about/"
 weight = 2
 
@@ -18,7 +18,7 @@ weight = 3
 
 # footer menu
 [[footer]]
-name = "퍼마픽스란?"
+name = "소개"
 url = "about/"
 weight = 1
 

@@ -1,11 +1,11 @@
 ---
-title: "퍼마픽스란 무엇인가요?"
+title: "퍼마픽스는 어떤 서비스인가요?"
 # meta title
-meta_title: ""
+meta_title: "퍼마픽스는 어떤 서비스인가요?"
 # meta description
-description: "This is meta description"
+description: "퍼마픽스는 어떤 서비스인가요?"
 # save as draft
 draft: false
 ---
 
-PERMAPIX is an app that securely and safely uploads pictures from your phone to a blockchain network.
+<center>콘텐츠를 작성하고 있습니다...</center>
