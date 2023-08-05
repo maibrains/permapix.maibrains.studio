@@ -16,6 +16,11 @@ name = "블로그"
 url = "blog/"
 weight = 3
 
+[[main]]
+name = "공지사항"
+url = "categories/공지사항/"
+weight = 4
+
 # footer menu
 [[footer]]
 name = "소개"

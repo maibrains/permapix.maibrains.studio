@@ -1,5 +1,5 @@
 ---
-title: "Blog Posts"
-meta_title: "PERMAPIX blog"
-description: "PERMAPIX blog"
+title: "Blog"
+meta_title: "PERMAPIX Blog"
+description: "PERMAPIX Blog"
 ---
