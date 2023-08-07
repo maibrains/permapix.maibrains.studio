@@ -11,7 +11,7 @@ logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "PERMAPIX Logo"
+logo_text = "PERMAPICS Logo"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -53,9 +53,9 @@ show_categories = true
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["PERMAPIX", "Permapix", "MAIBRAINS", "MaiBrains", "blockchain", "arweave", "bundlr" ]
-description = "PERMAPIX - Never lose your fond memories. Pay once, remain forever."
-author = "PERMAPIX"
+keywords = ["PERMAPICS", "PERMAPICS", "MAIBRAINS", "MaiBrains", "blockchain", "arweave", "bundlr" ]
+description = "PERMAPICS - Never lose your fond memories. Pay once, remain forever."
+author = "PERMAPICS"
 image = "images/og-image.png"
 
 

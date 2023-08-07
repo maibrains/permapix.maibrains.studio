@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "Check Out User Testimonials"
-description: "Explore honest testimonials from users who are genuinely satisfied with our service. They are utilizing PermaPix for various purposes and in various ways."
+description: "Explore honest testimonials from users who are genuinely satisfied with our service. They are utilizing PERMAPICS for various purposes and in various ways."
 
 testimonials:
   - name: "Scarllet"

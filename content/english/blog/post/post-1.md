@@ -5,7 +5,7 @@ description: "Sample post"
 date: 2023-08-05T18:08:35+09
 image: "/images/image-placeholder.png"
 categories: ["Default"]
-author: "PERMAPIX"
+author: "PERMAPICS"
 tags: ["post"]
 draft: false
 ---

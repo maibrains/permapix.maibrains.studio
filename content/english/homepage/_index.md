@@ -1,7 +1,7 @@
 ---
 banner:
   title: "Preserve your precious moments permanently"
-  content: "PERMAPIX is a service that utilizes blockchain technology to securely and permanently preserve photos. All photos are encrypted and safely stored, with only the owner being able to view them. With just a single upload, you can cherish your precious photos forever."
+  content: "PERMAPICS is a service that utilizes blockchain technology to securely and permanently preserve photos. All photos are encrypted and safely stored, with only the owner being able to view them. With just a single upload, you can cherish your precious photos forever."
   image: "/images/banner.png"
   button:
     enable: true

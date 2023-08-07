@@ -5,7 +5,7 @@ description: "Sample Notice"
 date: 2023-08-04T17:45:57Z
 image: "/images/image-placeholder.png"
 categories: ["Notice"]
-author: "PERMAPIX"
+author: "PERMAPICS"
 tags: ["notice"]
 draft: false
 ---

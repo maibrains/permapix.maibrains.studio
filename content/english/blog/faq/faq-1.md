@@ -5,7 +5,7 @@ description: "Sample FAQ"
 date: 2023-08-04T17:45:57Z
 image: "/images/image-placeholder.png"
 categories: ["FAQ"]
-author: "PERMAPIX"
+author: "PERMAPICS"
 tags: ["faq"]
 draft: false
 ---
