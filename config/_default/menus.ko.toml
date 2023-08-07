@@ -21,6 +21,11 @@ name = "공지사항"
 url = "categories/공지사항/"
 weight = 4
 
+[[main]]
+name = "자주묻는질문"
+url = "categories/자주묻는질문/"
+weight = 5
+
 # footer menu
 [[footer]]
 name = "소개"
