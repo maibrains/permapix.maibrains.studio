@@ -17,10 +17,10 @@ draft: false
 
 <h2>Features of PERMAPICS</h2>
 <p>Now, with PERMAPICS, you can store, manage, secure, and even bequeath your photos. Escape the troubles and costs associated with photo storage and management.</p>
-<p>PERMAPICS utilizes blockchain network technology. With global blockchain nodes preserving copies of your photos, the fear of loss is a thing of the past.</p>
+<p>PERMAPICS utilizes blockchain network technology. With global blockchain nodes(Computers) preserving copies of your photos, the fear of loss is a thing of the past.</p>
 <p>There are no additional costs after the initial charge to record a photo on the blockchain. Thus, once uploaded, there are absolutely no costs for storage or maintenance.</p>
 <p>Your photos are encrypted and managed solely by the private key you own. While the data recorded on the chain is public, just as only the owner can transfer Bitcoin, your photos are securely managed by the same principle.</p>
-<p>With these features, all the photos you upload can be passed down to future generations. There's no need to hand over numerous physically stored hard drives or CDs. Simply transfer the private key.</p>
+<p>With these features, all the photos you upload can be passed down to future generations. There's no need to hand over numerous heavy hard drives or CDs. Simply transfer the private key.</p>
 <p>Even if PERMAPICS disappears, your data remains safe. As long as the blockchain exists, it will be preserved indefinitely.</p>
 <p>&nbsp;</p>
 
